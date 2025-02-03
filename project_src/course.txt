@@ -1,0 +1,6 @@
+CENG1234;Programming Fundamentals;Barıs yılmaz;89
+CENG3685;Software Enginnering;Ayşe Yıldız;23
+MATH101;Calculus 1 ;Defne Aksoy;98
+PHY101;Physics 1;Elif Yılmaz;0
+CENG7895;Chemistry;Nehir Akman;17
+
